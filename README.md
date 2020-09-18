@@ -1,2 +1,3 @@
 # Simulation of dynamic systems with python
-Repository to keep the activities of the course called "Simulating dynamic systems with python", offered by UFPB and lectured by Hugo Leonardo  Cavalcante, Ph.D
+
+The study of models of dynamic systems, which are generally described by ordinary differential equations, and which are present in several situations, such as the study of ecosystems, organisms, electronic circuits, electrical and communication networks. This repository englobes the simulation of some dynamic systems, emphasizing those with chaotic behavior. The main idea is to show some  implementations of the research project named "Applications of Nonlinear Dynamics and Chaos in Electronic and Computer Systems" that im devoveloping with professor Hugo L. D. de Souza Cavalcante, from UFPB, to make simulations and predictions of possible extreme events in such systems using artificial intelligence techniques.
